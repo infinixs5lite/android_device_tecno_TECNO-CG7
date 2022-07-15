@@ -21,5 +21,5 @@ $(call inherit-product, vendor/twrp/config/gsm.mk)
 PRODUCT_DEVICE := CG7
 PRODUCT_NAME := twrp_TECNO-CG7
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := G7
+PRODUCT_MODEL := TECNO-CG7
 PRODUCT_MANUFACTURER := tecno
