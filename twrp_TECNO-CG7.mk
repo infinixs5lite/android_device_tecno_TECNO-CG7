@@ -18,8 +18,8 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, vendor/twrp/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := TECNO-CG7
+PRODUCT_DEVICE := CG7
 PRODUCT_NAME := twrp_TECNO-CG7
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO CG7
+PRODUCT_MODEL := G7
 PRODUCT_MANUFACTURER := tecno
